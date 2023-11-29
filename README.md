@@ -2,7 +2,6 @@
 MSCH-C220 Game Jam, November 2023
 
 ## Theme
-How you thought about or interpreted the theme
 We interpreted the theme literally. The way we used it is we move a cube from the inside, out by traversing a maze.
 
 ## Game Play
@@ -25,4 +24,4 @@ Assets, or resources used
 
 
 # Created by: Parmesean
-Jack Horvath, Seth Bolden, Haley O'Hair, Mailouda W.M 
+Jack Horvath, Seth Bolden, Haley O'Hair, Mailouda W.Mohamed 
